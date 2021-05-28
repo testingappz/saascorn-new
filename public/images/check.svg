@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>check</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="28" height="28" rx="11.0833333"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home--Main" transform="translate(-751.000000, -2489.000000)">
+            <g id="Group-24" transform="translate(176.000000, 2330.000000)">
+                <g id="Group-20" transform="translate(576.000000, 0.000000)">
+                    <g id="check" transform="translate(0.000000, 160.000000)">
+                        <g id="Rectangle">
+                            <rect stroke="#FFFFFF" stroke-width="2.33333333" stroke-linejoin="square" fill="#6054F7" fill-rule="evenodd" x="1.16666667" y="1.16666667" width="25.6666667" height="25.6666667" rx="11.0833333"></rect>
+                            <use stroke="#6054F7" stroke-width="0.583333333" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="tick" transform="translate(8.000000, 9.600000)" fill="#FFFFFF" fill-rule="nonzero">
+                            <path d="M12.6125471,0.191449218 C12.3626224,-0.063816406 11.9574229,-0.063816406 11.7074482,0.191449218 L4.03985757,8.02219074 L1.09256117,5.01221125 C0.842636471,4.75694562 0.437436966,4.75697116 0.187462271,5.01221125 C-0.0624874237,5.26745134 -0.0624874237,5.68126863 0.187462271,5.93653425 L3.58730812,9.40863695 C3.83715782,9.66387704 4.24265732,9.66369832 4.49240702,9.40863695 L12.6125471,1.11579775 C12.8624968,0.86055766 12.8624718,0.446714842 12.6125471,0.191449218 Z" id="Path"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

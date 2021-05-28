@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="95px" height="91px" viewBox="0 0 95 91" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Rectangle 2</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="95" height="91"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Investment-Owner/Compnay-Profile" transform="translate(-210.000000, -526.000000)">
+            <g id="Rectangle-2" transform="translate(210.000000, 526.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Rectangle" fill="#F1F1F1" xlink:href="#path-1"></use>
+                <circle id="Oval" fill="#D8D8D8" mask="url(#mask-2)" cx="48" cy="32" r="22"></circle>
+                <circle id="Oval" fill="#D8D8D8" mask="url(#mask-2)" cx="48" cy="100" r="40"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

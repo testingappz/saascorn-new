@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 13</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Manage-Investment" transform="translate(-1169.000000, -125.000000)" fill-rule="nonzero">
+            <g id="Group-13" transform="translate(1169.000000, 125.000000)">
+                <circle id="Oval" fill="#1E1428" cx="12" cy="12" r="12"></circle>
+                <g id="facebook-icon" transform="translate(9.600000, 6.600000)" fill="#FFFFFF">
+                    <path d="M5.4,3.69137239 L3.56094975,3.69137239 L3.56094975,2.50818878 C3.56094975,2.06384599 3.86116358,1.96025254 4.07261226,1.96025254 C4.28357983,1.96025254 5.37041162,1.96025254 5.37041162,1.96025254 L5.37041162,0.00684330366 L3.5830809,0 C1.59897541,0 1.14745189,1.45691575 1.14745189,2.38925688 L1.14745189,3.69137239 L0,3.69137239 L0,5.70424757 L1.14745189,5.70424757 C1.14745189,8.28747672 1.14745189,11.4 1.14745189,11.4 L3.56094975,11.4 C3.56094975,11.4 3.56094975,8.25679986 3.56094975,5.70424757 L5.18951354,5.70424757 L5.4,3.69137239 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

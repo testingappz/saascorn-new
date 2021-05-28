@@ -1,0 +1,30 @@
+.form-group.scroller {
+    max-height: 400px;
+    overflow: auto;
+}
+.mw-90 {
+	max-width: 90%;
+}
+span.feedback.invalid {
+    color: #DC3545;
+}
+/*.dobgroup div{
+	z-index: 99999 !important;
+	background-color: #fff;
+	width: 100%;
+	box-shadow: 1px 1px 8px #00000047;
+	position: absolute;
+	top: 10px;
+
+}*/
+/*.bootstrap-datetimepicker-widget.dropdown-menu {
+    z-index: 9999 !important;
+}*/
+#track_investment_table
+{
+	max-height: 400px;
+	overflow-x: auto;
+}
+a.resendlink {
+    cursor: pointer;
+}

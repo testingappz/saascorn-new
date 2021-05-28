@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="16px" viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/navigation/arrow_forward_24px</title>
+    <defs>
+        <path d="M5.49824433,12.6749932 L17.2890563,12.6749932 L12.1378332,17.4329932 C11.7261576,17.8132432 11.7261576,18.4372432 12.1378332,18.8174932 C12.5495088,19.1977432 13.2145233,19.1977432 13.6261989,18.8174932 L20.5824613,12.3922432 C20.9941369,12.0119932 20.9941369,11.3977432 20.5824613,11.0174932 L13.6367547,4.5824932 C13.4395393,4.39992184 13.171791,4.29731973 12.8925718,4.29731973 C12.6133527,4.29731973 12.3456043,4.39992184 12.148389,4.5824932 C11.7367133,4.9627432 11.7367133,5.5769932 12.148389,5.9572432 L17.2890563,10.7249932 L5.49824433,10.7249932 C4.91767615,10.7249932 4.44266582,11.1637432 4.44266582,11.6999932 C4.44266582,12.2362432 4.91767615,12.6749932 5.49824433,12.6749932 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home--Main" transform="translate(-303.000000, -548.000000)">
+            <g id="Group-11" transform="translate(151.000000, 527.000000)">
+                <g id="icon/navigation/arrow_forward_24px" transform="translate(148.000000, 17.100000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
